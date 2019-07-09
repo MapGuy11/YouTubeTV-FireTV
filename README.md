@@ -14,7 +14,7 @@ YouTube TV On Fire TV
 * 99.9% Stable unless you are overloading system by changing channels frequently
 
 ## Screen Shots
-![](https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135648.jpg | width=100)
+![](https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135648.jpg =320x240)
 ![](https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135706.jpg | width=100)
 ![](https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135824.jpg | width=100)
 ![](https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135849.jpg | width=100)
