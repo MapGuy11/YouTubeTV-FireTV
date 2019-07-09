@@ -21,7 +21,7 @@ YouTube TV On Fire TV
 <img src="https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135648.jpg" alt="alt text" width="320" height="240">
 
 ## Setup Guide
-APK LINK: http://bit.ly/yttvonfire
+APK LINK: http://bit.ly/ytvonfire
 <div align="center">
   <a href="https://www.youtube.com/watch?v=VSw-Zgzx-iA"><img src="https://img.youtube.com/vi/VSw-Zgzx-iA/0.jpg" alt="SETUP1080P"></a>
 </div>
