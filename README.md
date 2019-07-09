@@ -12,3 +12,8 @@ YouTube TV On Fire TV
 * Voice Search Will Crash App
 * Sometimes Will Take Some Time To Load
 * 99.9% Stable unless you are overloading system by changing channels frequently
+
+## ScreenShots
+
+
+## Setup Guide
