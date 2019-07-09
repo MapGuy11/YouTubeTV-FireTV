@@ -22,3 +22,9 @@ YouTube TV On Fire TV
 
 ## Setup Guide
 [![SETUP1080HD](https://img.youtube.com/vi/VSw-Zgzx-iA/0.jpg) ] (https://www.youtube.com/watch?v=VSw-Zgzx-iA
+    
+   <iframe width="560" height="315"
+src="https://www.youtube.com/embed/VSw-Zgzx-iA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
