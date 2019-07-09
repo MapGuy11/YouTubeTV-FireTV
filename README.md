@@ -22,6 +22,4 @@ YouTube TV On Fire TV
 
 ## Setup Guide
 APK LINK: http://bit.ly/ytvonfire
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=VSw-Zgzx-iA"><img src="https://img.youtube.com/vi/VSw-Zgzx-iA/0.jpg" alt="SETUP1080P"></a>
-</div>
+Download Downloader And Install APK From Link
