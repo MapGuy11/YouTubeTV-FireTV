@@ -19,4 +19,6 @@ YouTube TV On Fire TV
 <img src="https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135824.jpg" alt="alt text" width="320" height="240">
 <img src="https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135849.jpg" alt="alt text" width="320" height="240">
 <img src="https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/IMG_20190709_135648.jpg" alt="alt text" width="320" height="240">
+
 ## Setup Guide
+[![SETUP1080HD](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE
