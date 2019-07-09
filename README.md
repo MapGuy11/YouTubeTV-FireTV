@@ -7,6 +7,9 @@ YouTube TV On Fire TV
 * Almost Everything
 * HD Streaming When Available From YouTube TV
 * Switch Accounts
+* First Boot Takes Pretty Long On Old Fire TV's
+* Testing on (2) FireTV Stick 2nd Gen
+* All Bottons Work On Tested Device
 
 ## Not Working
 * Voice Search Will Crash App
