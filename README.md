@@ -27,7 +27,7 @@ YouTube TV On Fire TV
 <img src="https://raw.githubusercontent.com/MapGuy11/YouTubeTV-FireTV/master/virustotalscan.jpg" alt="alt text" width="320" height="240">
 
 ## Setup Guide
-* Need Help? Contact Me On YouTube TV subreddit
+* Need Help? Contact Me On YouTube TV Subreddit: https://www.reddit.com/r/youtubetv/
 * APK LINK: http://tinyurl.com/ytvonfire
 * Download Downloader And Install APK From Link
 * If Other Doesn't Work: https://tinyurl.com/ytvonfirev2
