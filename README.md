@@ -1,3 +1,5 @@
+## YouTube TV is Now Officially On FireTV so my hack isn't needed!!
+
 ## YouTubeTV-FireTV
 YouTube TV On Fire TV
 
